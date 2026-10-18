@@ -1,7 +1,13 @@
 
-<div align="center">
 
-# 👋 Hi, I'm Hiruni Dineka
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding animation">
+
+  <h1>Hi 👋, I'm Hiruni Dineka</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;QA+%26+Automation+Testing+Learner;IT+Undergraduate+at+Horizon+Campus" alt="Typing animation">
+</div>
+
 
 ### 🎓 IT Undergraduate | Aspiring Software Developer
 
