@@ -1,65 +1,104 @@
 
-# Hi, I'm Hiruni Dineka 👋
+<div align="center">
+
+# 👋 Hi, I'm Hiruni Dineka
 
 ### 🎓 IT Undergraduate | Aspiring Software Developer
 
-Welcome to my GitHub profile! 💻
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Development+Enthusiast;QA+%26+Automation+Testing+Learner;Exploring+UI%2FUX+Design;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-I'm an Information Technology undergraduate at Horizon Campus, Sri Lanka. I'm passionate about software development, QA engineering, and UI/UX design.
+📍 Sri Lanka | 🎓 Horizon Campus
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/KattadigeHiruniDineka)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 IT Undergraduate at Horizon Campus
+I'm an Information Technology undergraduate at Horizon Campus, Sri Lanka, with a strong interest in software development, Quality Assurance (QA), and UI/UX design. I enjoy learning new technologies, solving problems, and building projects that enhance my technical skills. I'm continuously working to expand my knowledge and gain practical experience to become a skilled software developer.
+
 - 💻 Interested in Software Development and QA Engineering
-- 🎨 Exploring UI/UX Design with Figma
-- 🌱 Learning Python, Java, Git, and Software Testing
-- 🔍 Interested in Automation Testing and DevOps
+- 🧪 Learning software testing and automation testing
+- 🎨 Exploring UI/UX design with Figma
+- 🌱 Improving my Python, Java, and Git skills
+- ☁️ Exploring Cloud and DevOps fundamentals
 - 🎯 Seeking Software Development / QA Internship opportunities
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Python | Java | HTML | CSS | JavaScript
+<div align="center">
 
-**Tools:** Git | GitHub | VS Code | Figma | Jira
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,figma&perline=5" alt="Skills and technologies" />
 
-**Currently Learning:** Spring Boot | Selenium | AI/ML | DevOps
+</div>
+
+**Currently Learning**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-Learning-43B02A?style=flat&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Project_Tracking-0052CC?style=flat&logo=jira&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Fundamentals-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 My Projects
 
-- 🏠 **CCTV Shop Website** — CCTV products and services website
-- 🤖 **HabitMate AI** — AI-powered habit and productivity assistant
-- 🏥 **CampusCare** — Campus-focused software project
-- 📦 **StockWise** — Smart inventory management system
+### 🏠 CCTV Shop Website
+A website showcasing CCTV products and services, with product sections and customer contact options.
+
+### 🤖 HabitMate AI
+An AI-powered habit and productivity assistant designed to help users build better routines.
+
+### 🏥 CampusCare
+A campus-focused software project exploring application development and microservices.
+
+### 📦 StockWise
+A smart inventory management and sharing system concept for small businesses.
+
+🔗 Explore my repositories: [GitHub Projects](https://github.com/KattadigeHiruniDineka?tab=repositories)
 
 ---
 
 ## 📜 Certifications
 
-- Python for Beginners — University of Moratuwa
-- Python for Beginners — Simplilearn
+- 🐍 Python for Beginners — University of Moratuwa
+- 🐍 Python for Beginners — Simplilearn
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KattadigeHiruniDineka&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KattadigeHiruniDineka&layout=compact&theme=tokyonight)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KattadigeHiruniDineka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KattadigeHiruniDineka&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-## 🔗 Connect With Me
+<img src="https://streak-stats.demolab.com?user=KattadigeHiruniDineka&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-- 💻 [GitHub Profile](https://github.com/KattadigeHiruniDineka)
-- 💼 LinkedIn: Add your profile link
-- 🔐 TryHackMe: Add your profile link
+</div>
 
 ---
 
-⭐ Always learning, building, and improving!
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KattadigeHiruniDineka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Always Learning, Building & Growing ✨
+
+⭐ Thanks for visiting my profile!
+
+</div>
