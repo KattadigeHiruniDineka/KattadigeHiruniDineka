@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmljM2NnZWZqYzQ0ZnZnYWZrN29taXk1b3B1Y21pNnUzM2d6dWRtbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
   <h1>Hi 👋, I'm Hiruni Dineka</h1>
 
@@ -9,9 +9,6 @@
 </div>
 
 
-### 🎓 IT Undergraduate | Aspiring Software Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Development+Enthusiast;QA+%26+Automation+Testing+Learner;Exploring+UI%2FUX+Design;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 📍 Sri Lanka | 🎓 Horizon Campus
 
