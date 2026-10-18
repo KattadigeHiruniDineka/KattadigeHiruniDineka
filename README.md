@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmljM2NnZWZqYzQ0ZnZnYWZrN29taXk1b3B1Y21pNnUzM2d6dWRtbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
+  <img src="https://images.openai.com/static-rsc-4/JFPl5moHAGQEhdkMLwB1AcMAZa08am1okRZ6CIsgk1pcLT_8VpU9lkW6lJNjT8sZhy5EJdKWmFAwoe5mpKAus72-U6u02q3rC_qUZ66LK-4z9XiT8y1jssGFsi8IrgcI5TCpV5NW5cV_gPof7ZNRfCNIURlZzyV0zlDwmFtKsQI?purpose=inline">
 
   <h1>Hi 👋, I'm Hiruni Dineka</h1>
 
@@ -50,26 +50,7 @@ I'm an Information Technology undergraduate at Horizon Campus, Sri Lanka, with a
 
 ## 🚀 My Projects
 
-### 🏠 CCTV Shop Website
-A website showcasing CCTV products and services, with product sections and customer contact options.
-
-### 🤖 HabitMate AI
-An AI-powered habit and productivity assistant designed to help users build better routines.
-
-### 🏥 CampusCare
-A campus-focused software project exploring application development and microservices.
-
-### 📦 StockWise
-A smart inventory management and sharing system concept for small businesses.
-
 🔗 Explore my repositories: [GitHub Projects](https://github.com/KattadigeHiruniDineka?tab=repositories)
-
----
-
-## 📜 Certifications
-
-- 🐍 Python for Beginners — University of Moratuwa
-- 🐍 Python for Beginners — Simplilearn
 
 ---
 
