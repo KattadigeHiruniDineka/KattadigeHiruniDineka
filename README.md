@@ -75,7 +75,7 @@ I'm an Information Technology undergraduate at Horizon Campus, Sri Lanka, with a
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KattadigeHiruniDineka)
-[![LinkedIn](https://www.linkedin.com/in/k-hiruni-dineka-84aa442b2/)
+[![LinkedIn](https://www.linkedin.com/in/k-hiruni-dineka-84aa442b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJos%2FLD%2F5Rg2H578pHADw8Q%3D%3D)
 
 </div>
 
