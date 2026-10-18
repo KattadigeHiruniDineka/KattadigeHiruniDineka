@@ -5,51 +5,37 @@
 
 Welcome to my GitHub profile! 💻
 
-I'm an Information Technology undergraduate at Horizon Campus, Sri Lanka. I'm passionate about software development, quality assurance, and UI/UX design. I enjoy learning new technologies and building projects to improve my technical skills.
+I'm an Information Technology undergraduate at Horizon Campus, Sri Lanka. I'm passionate about software development, QA engineering, and UI/UX design.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Information Technology Undergraduate at Horizon Campus
+- 🎓 IT Undergraduate at Horizon Campus
 - 💻 Interested in Software Development and QA Engineering
 - 🎨 Exploring UI/UX Design with Figma
-- 🌱 Currently learning Python, Java, Git, and Software Testing
-- 🔍 Interested in QA, Automation Testing, and DevOps
-- 🎯 Looking for Software Development / QA Internship opportunities
+- 🌱 Learning Python, Java, Git, and Software Testing
+- 🔍 Interested in Automation Testing and DevOps
+- 🎯 Seeking Software Development / QA Internship opportunities
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages
-- Python
-- Java
-- HTML
-- CSS
-- JavaScript
+**Languages:** Python | Java | HTML | CSS | JavaScript
 
-### Tools & Platforms
-- Git & GitHub
-- Visual Studio Code
-- Figma
-- Jira
+**Tools:** Git | GitHub | VS Code | Figma | Jira
 
-### Currently Learning
-- Spring Boot
-- Selenium WebDriver
-- Software Testing
-- AI & Machine Learning
-- Cloud & DevOps Fundamentals
+**Currently Learning:** Spring Boot | Selenium | AI/ML | DevOps
 
 ---
 
-## 🚀 Projects
+## 🚀 My Projects
 
-- 🏠 **CCTV Shop Website** — A website for CCTV products and services.
-- 🤖 **HabitMate AI** — An AI-powered habit and productivity assistant.
-- 🏥 **CampusCare** — A campus-focused microservices project.
-- 📦 **StockWise** — A smart inventory management and sharing system.
+- 🏠 **CCTV Shop Website** — CCTV products and services website
+- 🤖 **HabitMate AI** — AI-powered habit and productivity assistant
+- 🏥 **CampusCare** — Campus-focused software project
+- 📦 **StockWise** — Smart inventory management system
 
 ---
 
@@ -70,10 +56,10 @@ I'm an Information Technology undergraduate at Horizon Campus, Sri Lanka. I'm pa
 
 ## 🔗 Connect With Me
 
-- 💻 GitHub: [KattadigeHiruniDineka](https://github.com/KattadigeHiruniDineka)
-- 💼 LinkedIn: Add your LinkedIn profile link
-- 🔐 TryHackMe: Add your TryHackMe profile link
+- 💻 [GitHub Profile](https://github.com/KattadigeHiruniDineka)
+- 💼 LinkedIn: Add your profile link
+- 🔐 TryHackMe: Add your profile link
 
 ---
 
-⭐ *Always learning, building, and improving!*
+⭐ Always learning, building, and improving!
