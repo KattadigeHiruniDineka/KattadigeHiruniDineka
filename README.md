@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://images.openai.com/static-rsc-4/tBV0zVtShTF_BKQ3mUaXIdrGa7rjKYJ-EMs0EmWHX_WgQipFmbff_CcB7pYOE55FuE2NsEEI41Jct66QqVRCjqUHrQs8P4lleen15WYxOwBDRXVDd70TqXLaoi6TzYzMeS7Dr0dHFNH-yMVEXiAcR4RQg3NHenokghDyVvSqJa62WhL3o8t3IrHZ85lhROZ_?purpose=fullsize">
+  <img src="blob:https://chatgpt.com/e01372ce-ff1c-4173-afa5-eaa0b16ac5de">
 
   <h1>Hi 👋, I'm Hiruni Dineka</h1>
 
