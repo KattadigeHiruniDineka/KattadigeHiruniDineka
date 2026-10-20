@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="C:\Users\User\Downloads\Gemini_Generated_Image_u7r0pmu7r0pmu7r0.jfif">
+  <img src="https://images.openai.com/static-rsc-4/tBV0zVtShTF_BKQ3mUaXIdrGa7rjKYJ-EMs0EmWHX_WgQipFmbff_CcB7pYOE55FuE2NsEEI41Jct66QqVRCjqUHrQs8P4lleen15WYxOwBDRXVDd70TqXLaoi6TzYzMeS7Dr0dHFNH-yMVEXiAcR4RQg3NHenokghDyVvSqJa62WhL3o8t3IrHZ85lhROZ_?purpose=fullsize">
 
   <h1>Hi 👋, I'm Hiruni Dineka</h1>
 
