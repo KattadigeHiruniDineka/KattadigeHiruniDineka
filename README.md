@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="blob:https://gemini.google.com/7b06aa4a-58e0-4c2e-ae99-0649e6bb1cab">
+  <img src="C:\Users\User\Downloads\Gemini_Generated_Image_u7r0pmu7r0pmu7r0.jfif">
 
   <h1>Hi 👋, I'm Hiruni Dineka</h1>
 
